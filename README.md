@@ -1,3 +1,4 @@
+# -LLM-Powered-Intelligent-Query-Retrieval-System
 PDF Question-Answering API
 This project is a FastAPI-based application that downloads PDFs, extracts text, builds a FAISS vector index using sentence-transformers/all-MiniLM-L6-v2, and answers questions using the Mistral model via Ollama. It processes various documents (e.g., Indian Constitution, insurance policies, technical manuals) and handles queries through a REST API endpoint.
 Features
