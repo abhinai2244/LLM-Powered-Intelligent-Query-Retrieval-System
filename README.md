@@ -23,8 +23,8 @@ This project is a FastAPI-based application that downloads PDFs, extracts text, 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/abhinai2244/LLM-Powered-Intelligent-Query-Retrieval-System.git
+cd LLM-Powered-Intelligent-Query-Retrieval-System
 ```
 
 ### Set Up a Virtual Environment
