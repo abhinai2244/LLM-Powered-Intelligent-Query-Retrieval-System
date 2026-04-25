@@ -228,4 +228,4 @@ MIT License. See `LICENSE` for details.
 
 ## Contact
 
-For issues or questions, open a GitHub issue or contact `<your-email>`.
+For issues or questions, open a GitHub issue or contact `abhinaireddy2244@gmail.com`.
